@@ -33,9 +33,9 @@
 }
 
 
-/* blurring the little bit bottom-indicated height and 100% width  of an element:
-.slide::after{
+/* blurring the little bit bottom-indicated height and 100% width  of an element: */
 
+/* .slide::after{ 
     content: "";
     position: absolute;
     bottom: 0;
@@ -47,8 +47,8 @@
     z-index: 10;
 }  */
 
-/* blurring the little bit top-indicated height and 100% width  of an element:
- .slide::before{
+/* blurring the little bit top-indicated height and 100% width  of an element: */
+ /* .slide::before{
 
     content: "";
     position: absolute;
@@ -59,7 +59,7 @@
     width: 100%;
     background-color: rgba(0, 0, 0, 0.4);
     z-index: 10;
-}  */
+}   */
 
 .slide .image{
     height: 100%;
